@@ -1,0 +1,13 @@
+C:\Users\nesti\source\repos\MojaLodówka\bin\Debug\netcoreapp3.1\MojaLodówka.exe
+C:\Users\nesti\source\repos\MojaLodówka\bin\Debug\netcoreapp3.1\MojaLodówka.deps.json
+C:\Users\nesti\source\repos\MojaLodówka\bin\Debug\netcoreapp3.1\MojaLodówka.runtimeconfig.json
+C:\Users\nesti\source\repos\MojaLodówka\bin\Debug\netcoreapp3.1\MojaLodówka.runtimeconfig.dev.json
+C:\Users\nesti\source\repos\MojaLodówka\bin\Debug\netcoreapp3.1\MojaLodówka.dll
+C:\Users\nesti\source\repos\MojaLodówka\bin\Debug\netcoreapp3.1\MojaLodówka.pdb
+C:\Users\nesti\source\repos\MojaLodówka\obj\Debug\netcoreapp3.1\MojaLodówka.csprojAssemblyReference.cache
+C:\Users\nesti\source\repos\MojaLodówka\obj\Debug\netcoreapp3.1\MojaLodówka.csproj.CoreCompileInputs.cache
+C:\Users\nesti\source\repos\MojaLodówka\obj\Debug\netcoreapp3.1\MojaLodówka.AssemblyInfoInputs.cache
+C:\Users\nesti\source\repos\MojaLodówka\obj\Debug\netcoreapp3.1\MojaLodówka.AssemblyInfo.cs
+C:\Users\nesti\source\repos\MojaLodówka\obj\Debug\netcoreapp3.1\MojaLodówka.dll
+C:\Users\nesti\source\repos\MojaLodówka\obj\Debug\netcoreapp3.1\MojaLodówka.pdb
+C:\Users\nesti\source\repos\MojaLodówka\obj\Debug\netcoreapp3.1\MojaLodówka.genruntimeconfig.cache
